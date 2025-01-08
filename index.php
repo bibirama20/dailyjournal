@@ -192,62 +192,44 @@
         </div>
      </section>
      <!--article end-->
-     <!--gallery begin-->
-     <section id="gallery" class="text-center p-5 bg-primary-subtle">
+    <!-- gallery begin -->
+    <section id="gallery" class="text-center p-5 bg-primary-subtle">
         <div class="container">
             <h1 class="fw-bold display-4 pb-3">Gallery</h1>
             <div id="carouselExample" class="carousel slide">
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <img src="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/07/05/411527261.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <img src="https://pbs.twimg.com/media/DS4CziTU0AAE_9v.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                    </div>
-                  <div class="carousel-item">
-                    <img src="https://cdn.idntimes.com/content-images/community/2022/10/250606392-629653018066947-7014145749086488020-n-d7a5cfe6be371380223a4ffc73ad4e08-d54a80089f3c3f6f8c3cf689e6fa8c12.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://wisatapemalang.com/wp-content/uploads/2021/11/Wisata-Pemalang-Obyek-Wisata-Gunung-Gajah-Desa-Gongseng-Pemalang-35-1600x923.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://www.g-news.id/wp-content/uploads/2022/07/IMG20220717134355-scaled.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://yukdolan.com/wp-content/uploads/2023/03/Kebun-Teh-Semugih-Pemalang.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://shelterjelajah.com/wp-content/uploads/2023/03/Jalur-Pendakian-Gunung-Slamet-1024x585.jpg.webp" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://joglojateng.com/wp-content/uploads/2023/03/Box15.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://investasi.pemalangkab.go.id/foto/foto_komoditas/1615537958Nanas3.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://wisatapemalang.com/wp-content/uploads/2020/10/Wisata-Pemalang-Pantai-Widuri_1.jpg" class="d-block w-100" width="150" height="500" alt="...">
-                  </div>
-                  <div class="carousel-item">
-                    <img src="https://wisatapemalang.com/wp-content/uploads/2020/11/Curug-Bengkawah-Desa-Sikasur-Pemalang.jpg" class="d-block w-100" width="" height="500" alt="...">
-                  </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <img src="img/sarung.jpeg" class="d-block w-100" alt="...">
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Next</span>
-                </button>
+                <div class="carousel-item">
+                  <img src="img/sma.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="img/rsud.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="img/grombyang.jpeg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                  <img src="img/curug.jpeg" class="d-block w-100" alt="...">
+                </div>
+		              <div class="carousel-item">
+                  <img src="img/bukit.jpeg" class="d-block w-100" alt="...">
+                </div>
+
               </div>
-
-              
-
+              <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
         </div>
-     </section>
-     <!--gallery end-->
+    </section>
+    <!-- gallery end -->
 
        <!-- schedule begin -->
        <section id="schedule" class="text-center p-5">
